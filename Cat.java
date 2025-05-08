@@ -1,9 +1,6 @@
 package animal;
 
-/**
- *
- * @author ASUS
- */
+
 public class Cat extends Animal implements Pet{
      private String color;
 
